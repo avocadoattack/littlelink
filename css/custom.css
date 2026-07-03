@@ -1,0 +1,10 @@
+/* Section Titles */
+.link-section-title {
+  color: #888888;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 24px 0 4px;
+  text-align: center;
+}
