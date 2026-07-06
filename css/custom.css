@@ -8,3 +8,10 @@
   margin: 24px 0 4px;
   text-align: center;
 }
+
+/* Dark mode: uniform white border on all buttons */
+@media (prefers-color-scheme: dark) {
+  :root.theme-auto .button {
+    --button-border: 1px solid #ffffff;
+  }
+}
