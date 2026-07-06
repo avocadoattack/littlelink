@@ -15,3 +15,15 @@
     --button-border: 1px solid #ffffff;
   }
 }
+
+/* Guac Homepage — custom gradient + avatar photo */
+.button-guac-homepage {
+  --button-text: #ffffff;
+  background-image: linear-gradient(135deg, #4d8f3a, #cfe8a9);
+  --button-border: 1px solid #ffffff;
+}
+
+.icon-round {
+  border-radius: 50%;
+  object-fit: cover;
+}
